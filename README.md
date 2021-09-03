@@ -1,6 +1,6 @@
 # IMS 
 This project is made by Atharv Patil (https://github.com/Atharvp18), Krishna Shreeram (me) and Gaurav Bhanot (https://github.com/gb07bh) for Elite Techno Groups Internship Program.<Br><br>
-This is an Inventory Management System that provides us the following functions : <br>
+This is an Inventory Management System that provides us with the following functionalities : <br>
 1. Displaying the items available in the store.<br>
 2. Asking the customers, items to be added in the cart. <br>
 3. Low stock alert after a purchase(for cashier).<br>
