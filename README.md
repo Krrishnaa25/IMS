@@ -1,4 +1,4 @@
-# IMS 
+# Inventory Managment System
 This project is made by Atharv Patil (https://github.com/Atharvp18), Krishna Shreeram (me) and Gaurav Bhanot (https://github.com/gb07bh) for Elite Techno Groups Internship Program.<Br><br>
 This is an Inventory Management System that provides us with the following functionalities : <br>
 1. Categorized our inventory.<br> 
